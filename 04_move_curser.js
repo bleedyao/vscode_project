@@ -7,3 +7,5 @@ foo()
 class MyWife{
     
 }
+
+console.log('my log');
